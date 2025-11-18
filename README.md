@@ -8,9 +8,49 @@
 -1 Ball Caster
 -2 Baterias 18650
 -Jumpers (suficientes)
--1 FCC ID:2AH9Q-BLEV1-C (Adaptador Bluetooth)
+-1 FCC ID:2AH9Q-BLEV1-C (Adaptador Bluetooth) 
+-2 Ruedas
 -3 Tornillos M4 
 -4 Tornillos M2
 -Tornillos caster
 -Tornillos Baterias
 -1 Un Chasis
+
+# Descripción de Componentes
+
+
+# Diagrama de Cableado
+
+
+# Modelado 3D/Construcción
+- Fue realizado con la aplicación = Blender 3.5, Realizando un diseño creativo e innovador para cubrir los componentes y que se vea más atractivo.
+
+# Programación
+
+
+# Getting Started
+
+
+# Resumen
+
+
+# Conclusiones
+
+
+# Recomendaciones
+
+
+# Trabajos Futuros
+
+
+# Índice
+  Materiales.............................................1
+  Descripción de Componentes.............................2
+  Diagrama de Cableado...................................3
+  Modelado 3D/Construcción...............................4
+  Programación...........................................5
+  Getting Started........................................6
+  Resumen................................................7
+  Conclusiones...........................................8
+  Recomendaciones........................................9
+  Trabajos Futuros.......................................10
