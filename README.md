@@ -17,7 +17,7 @@
 -1 Un Chasis
 
 # Descripción de Componentes
-
+En este robot el Megapi funciona como el cerebro (Sistema de Control), el ultrasonido funciona como los sentidos (Sensores), los Motores funcionan como el Movimiento (Actuadores), el Chasis funciona como el esqueleto (Estructura Mecánica) y las Baterias funcionan para que los componenetes puedan funcionar (Fuente de Energía).
 
 # Diagrama de Cableado
 
