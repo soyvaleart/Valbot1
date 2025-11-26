@@ -1,5 +1,17 @@
 # Valbot1
 
+# Índice
+  Materiales.............................................1
+  Descripción de Componentes.............................2
+  Diagrama de Cableado...................................3
+  Modelado 3D/Construcción...............................4
+  Programación...........................................5
+  Getting Started........................................6
+  Resumen................................................7
+  Conclusiones...........................................8
+  Recomendaciones........................................9
+  Trabajos Futuros.......................................10
+  
 # Materiales
 -1 MegaPi
 -1 MegaPi Encoder/DC Motor Driver V1.0
@@ -23,7 +35,7 @@ En este robot el Megapi funciona como el cerebro (Sistema de Control), el ultras
 
 
 # Modelado 3D/Construcción
-- Fue realizado con la aplicación = Blender 3.5, Realizando un diseño creativo e innovador para cubrir los componentes y que se vea más atractivo.
+- Fue realizado con la aplicación = Blender 3.5, Realizando un diseño creativo e innovador para el soporte de los componentes y que se vea más atractivo.
 
 # Programación
 
@@ -38,19 +50,10 @@ En este robot el Megapi funciona como el cerebro (Sistema de Control), el ultras
 
 
 # Recomendaciones
-
+- No alimentar el Megapi con mas de 12 voltios.
+- Apagalo despues de usarlo.
+- Cargar la bateria 
 
 # Trabajos Futuros
-WRO RobotSports 2026.
+Estoy trabajando para la competencia WRO RobotSports 2026.
 
-# Índice
-  Materiales.............................................1
-  Descripción de Componentes.............................2
-  Diagrama de Cableado...................................3
-  Modelado 3D/Construcción...............................4
-  Programación...........................................5
-  Getting Started........................................6
-  Resumen................................................7
-  Conclusiones...........................................8
-  Recomendaciones........................................9
-  Trabajos Futuros.......................................10
