@@ -52,7 +52,7 @@ En este robot el Megapi funciona como el cerebro (Sistema de Control), el ultras
 # Recomendaciones
 - No alimentar el Megapi con mas de 12 voltios.
 - Apagalo despues de usarlo.
-- Cargar la bateria 
+- Cargar la bateria luego de usar el carro.
 
 # Trabajos Futuros
 Estoy trabajando para la competencia WRO RobotSports 2026.
