@@ -35,7 +35,7 @@ En este robot el Megapi funciona como el cerebro (Sistema de Control), el ultras
 
 
 # Modelado 3D/Construcción
-- Fue realizado con la aplicación = Blender 3.5, Realizando un diseño creativo e innovador para el soporte de los componentes y que se vea más atractivo.
+- Este chasis fue realizado con la aplicación = Blender 3.5, Realizando un diseño creativo e innovador para el soporte de los componentes y que se vea más atractivo.
 
 # Programación
 
@@ -47,12 +47,14 @@ En este robot el Megapi funciona como el cerebro (Sistema de Control), el ultras
 
 
 # Conclusiones
-
+- 
 
 # Recomendaciones
-- No alimentar el Megapi con mas de 12 voltios.
-- Apagalo despues de usarlo.
-- Cargar la bateria luego de usar el carro.
+- No alimentar el Megapi con más de 12 voltios.
+- Desconecta la fuente de energia para prevenir.
+- Asegurate de cargar la bateria luego de usar el carro por mucho tiempo.
+- Verifique que las conexiones enten bien hechas.
+- Realiza un chasis a la medida de tu carro.
 
 # Trabajos Futuros
 Estoy trabajando para la competencia WRO RobotSports 2026.
