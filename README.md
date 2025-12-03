@@ -35,7 +35,7 @@ En este robot el Megapi funciona como el cerebro (Sistema de Control), el ultras
 
 
 # Modelado 3D/Construcción
-- Este chasis fue realizado con la aplicación = Blender 3.5, Realizando un diseño creativo e innovador para el soporte de los componentes y que se vea más atractivo.
+- Este chasis fue realizado con la aplicación = Blender 3.5, Realizando un diseño creativo e innovador para el soporte de los componentes y que se vea más atractivo. Para la impresion se utilizaron de filamento PETG.
 
 # Programación
 
