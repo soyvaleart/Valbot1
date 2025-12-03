@@ -1,16 +1,16 @@
 # Valbot1
 
 # Índice
-  Materiales.............................................1
-  Descripción de Componentes.............................2
-  Diagrama de Cableado...................................3
-  Modelado 3D/Construcción...............................4
-  Programación...........................................5
-  Getting Started........................................6
-  Resumen................................................7
-  Conclusiones...........................................8
-  Recomendaciones........................................9
-  Trabajos Futuros.......................................10
+* [Materiales](#materiales)
+* [Descripcion de Componentes](#descripcion-de-componentes)
+* [Diagrama de Cableado](#diagrama-de-cableado)
+* [Modelado 3D/Construcción](#modelado-3d/construcción)
+* [Programación](#programación)
+* [Getting Started](#getting-stared)
+* [Resumen](#resumen)
+* [Conclusiones](#conclusiones)
+* [Recomendaciones](#recomendaciones)
+* [Trabajos Futuros](#trabajos-futuros)
   
 # Materiales
 -1 MegaPi
@@ -24,9 +24,27 @@
 -2 Ruedas
 -3 Tornillos M4 
 -4 Tornillos M2
--Tornillos caster
--Tornillos Baterias
+-2 Tornillos caster
+-4 Tornillos Baterias
+
 -1 Un Chasis
+
+| Material | Cantidad |  Precio  |
+|----------|----------|----------|
+| MegaPi    | 1 | Cell 3   |
+| MegaPi Encoder/DC Motor Driver V1.0   | 1 | Cell 6   |
+| Motores DC de mBlock| 2 | Cell 9   |
+| HC-SR04  | 1 | Cell 3   |
+| Ball Caster  | 1 | Cell 6   |
+| Baterias 18650  | 2 | Cell 9   |
+| Jumpers  | xxx | Cell 3   |
+| FCC ID:2AH9Q-BLEV1-C (Adaptador Bluetooth)  | 1 | Cell 6   |
+|  Ruedas  | 2 | Cell 9   |
+| Tornillos M4 | 3 | Cell 3   |
+| Tornillos M2 | 4 | Cell 6   |
+| Tornillos caster | 2 | Cell 9   |
+| Tornillos Baterias | 4 | Cell 3   |
+
 
 # Descripción de Componentes
 En este robot el Megapi funciona como el cerebro (Sistema de Control), el ultrasonido funciona como los sentidos (Sensores), los Motores funcionan como el Movimiento (Actuadores), el Chasis funciona como el esqueleto (Estructura Mecánica) y las Baterias funcionan para que los componenetes puedan funcionar (Fuente de Energia).
@@ -35,7 +53,7 @@ En este robot el Megapi funciona como el cerebro (Sistema de Control), el ultras
 
 
 # Modelado 3D/Construcción
-- Este chasis fue realizado con la aplicación = Blender 3.5, Realizando un diseño creativo e innovador para el soporte de los componentes y que se vea más atractivo. Para la impresion se utilizaron de filamento PETG.
+- Este chasis fue realizado con la aplicación Blender 3.5, Realizando un diseño creativo e innovador para el soporte de los componentes y que se vea más atractivo. Para la impresion se utilizaron de filamento PETG.
 
 # Programación
 
