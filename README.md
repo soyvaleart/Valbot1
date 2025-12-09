@@ -50,7 +50,7 @@
 
 
 # Modelado 3D/Construcción
-- Este chasis fue realizado con la aplicación Blender 3.5, Realizando un diseño creativo e innovador para el soporte de los componentes y que se vea más atractivo. Para la impresion se utilizaron de filamento PETG.
+- Este chasis fue realizado con la aplicación Blender 3.5, Creando un diseño innovador para el soporte de los componentes y que se vea más atractivo. Para la impresion se utilizaron xxx de filamento PETG.
 
 # Programación
 
