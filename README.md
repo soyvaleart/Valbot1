@@ -44,10 +44,22 @@
 | Tornillos M2 | 4 | Cell 6   |
 | Tornillos caster | 2 | Cell 9   |
 | Tornillos Baterias | 4 | Cell 3   |
+| Chasis | 1 | Cell 3   |
 
 
 # Descripción de Componentes
-En este robot el Megapi funciona como el cerebro (Sistema de Control), el ultrasonido funciona como los sentidos (Sensores), los Motores funcionan como el Movimiento (Actuadores), el Chasis funciona como el esqueleto (Estructura Mecánica) y las Baterias funcionan para que los componenetes puedan funcionar (Fuente de Energia).
+
+- MegaPi: Es una placa que controla todo lo que conectes, motores, sensores, etc. Que funciona como el cerebro.
+- MegaPi Encoder/DC Motor Driver V1.0: Es como el puente que permite que el MegaPi controle los motores, dándoles la energía y las órdenes correctas.
+- Baterías: Son pilas recargables que le dan energía al robot.
+- Motores DC de mBlock: Son los que hacen girar las ruedas para que el robot se mueva.
+- Ruedas: Se conectan a los motores para que el robot pueda rodar.
+- Ball Caster: Es una ruedita libre que no tiene motor, que se coloca para que el carro tenga equilibrio y tenga una guia en la parte de adelante.
+- HC-SR04: Es un sensor que mide la distancia , para que el robot pueda ver si hay un obstáculo y no estrellarse contra el.
+- Adaptador Bluetooth (FCC ID:2AH9Q-BLEV1-C): Es el que permite que el robot se comunique sin cables con el control remoto (Celular).
+- Jumpers: Son los puentes que conectan todas las piezas entre sí para que puedan comunicarse entre ellas.
+- Chasis: Es la base donde se montan todos los componentes y se mantienen firmes y ordenados.
+
 
 # Diagrama de Cableado
 
