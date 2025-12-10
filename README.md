@@ -74,5 +74,5 @@
 - Realiza un chasis a la medida de tu carro.
 
 # Trabajos Futuros
-Estoy trabajando para la competencia WRO RobotSports 2026.
+Estoy trabajando para la competencia WRO Futuros Innovadores 2026.
 
