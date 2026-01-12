@@ -48,7 +48,6 @@
 
 # Diagrama de Cableado
 
-<img width="1476" height="658" alt="image" src="https://github.com/user-attachments/assets/1c75d3dd-0f88-496d-9afe-f7e8a1cf3249" />
 
 
 # Modelado 3D/Construcción
