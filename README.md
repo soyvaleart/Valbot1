@@ -48,8 +48,7 @@
 
 # Diagrama de Cableado
 
-![Uploading image.png…]()
-
+<img width="683" height="371" alt="Captura de pantalla 2026-01-14 a la(s) 2 54 55 p  m" src="https://github.com/user-attachments/assets/2fdd5109-6f3c-4990-8cf3-6e07753d22df" />
 
 # Modelado 3D/Construcción
 - Este chasis fue realizado con la aplicación Blender 3.5, Creando un diseño innovador para el soporte de los componentes y que se vea más atractivo. Para la impresión se utilizaron xxx de filamento PETG.
