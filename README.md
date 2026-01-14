@@ -48,6 +48,7 @@
 
 # Diagrama de Cableado
 
+![Uploading image.png…]()
 
 
 # Modelado 3D/Construcción
